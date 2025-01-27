@@ -8,7 +8,7 @@
 
 <h3 align="center">About Me</h3>
 
-- 🌐 I'm currently working on **[Your Current Projects/Technologies]**
+- 🌐 I'm currently working on **[Hotel Register Page]**
 - 📚 I'm always learning **[ Web Development]**
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/tolgaozpirildak/)
 - ☁️ Fun Fact: "I love turning ideas into reality through code!"
