@@ -9,7 +9,7 @@
 <h3 align="center">About Me</h3>
 
 - 🌐 I'm currently working on **[Your Current Projects/Technologies]**
-- 📚 I'm always learning **[Your Interests/Skills, e.g., Python, Web Development]**
+- 📚 I'm always learning **[ Web Development]**
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/tolgaozpirildak/)
 - ☁️ Fun Fact: "I love turning ideas into reality through code!"
 
