@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm ShoyoSensei! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I'm Tolga! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=500&color=F75C7E&center=true&vCenter=true&width=435&lines=Passionate+about+Coding!;Always+Learning+New+Things;Building+Awesome+Projects" alt="Typing SVG">
