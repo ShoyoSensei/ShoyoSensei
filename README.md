@@ -10,7 +10,7 @@
 
 - 🌐 I'm currently working on **[Your Current Projects/Technologies]**
 - 📚 I'm always learning **[Your Interests/Skills, e.g., Python, Web Development]**
-- 🔗 Connect with me on [LinkedIn](#) or check out my [Portfolio](#)
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/tolgaozpirildak/)
 - ☁️ Fun Fact: "I love turning ideas into reality through code!"
 
 ---
