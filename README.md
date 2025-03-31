@@ -15,6 +15,20 @@
 
 ---
 
+<h3 align="center">Projects</h3>
+
+<p align="center">
+  <a href="https://shoyosensei.github.io/Work/google/" target="_blank">
+    <img src="https://raw.githubusercontent.com/ShoyoSensei/Work/main/google/screenshot.png" alt="Google Landing Page" width="600"/>
+  </a>
+</p>
+<p align="center"><b>Google Landing Page</b><br/>
+A clean clone of Google's homepage using HTML & CSS.<br/>
+🔗 <a href="https://shoyosensei.github.io/Work/google/" target="_blank">Live Demo</a>
+</p>
+
+---
+
 <h3 align="center">Skills</h3>
 
 <p align="center">
