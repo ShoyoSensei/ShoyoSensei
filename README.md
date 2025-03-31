@@ -8,8 +8,8 @@
 
 <h3 align="center">About Me</h3>
 
-- 🌐 I'm currently working on **[Hotel Register Page]**
-- 📚 I'm always learning **[ Web Development]**
+- 🌐 I'm currently working on **Hotel Register Page**
+- 📚 I'm always learning **Web Development**
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/tolgaozpirildak/)
 - ☁️ Fun Fact: "I love turning ideas into reality through code!"
 
@@ -17,15 +17,18 @@
 
 <h3 align="center">Projects</h3>
 
-<p align="center">
-  <a href="https://shoyosensei.github.io/Work/google/" target="_blank">
-    <img src="https://raw.githubusercontent.com/ShoyoSensei/Work/main/google/screenshot.png" alt="Google Landing Page" width="600"/>
-  </a>
-</p>
-<p align="center"><b>Google Landing Page</b><br/>
-A clean clone of Google's homepage using HTML & CSS.<br/>
-🔗 <a href="https://shoyosensei.github.io/Work/google/" target="_blank">Live Demo</a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://shoyosensei.github.io/Work/google/" target="_blank">
+        <img src="https://raw.githubusercontent.com/ShoyoSensei/Work/main/google/screenshot.png" width="300" alt="Google Landing Page"/>
+        <br />
+        <strong>Google Landing Page</strong>
+      </a>
+      <p>A clean clone of Google's homepage using HTML & CSS.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
